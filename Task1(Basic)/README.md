@@ -1,7 +1,7 @@
 # Responsive Landing Page
 
 ## 📌 Project Overview
-This project is a fully responsive landing page developed as **Task 1** of the **Codveda Frontend Development Internship**. The landing page is built using **HTML, CSS, and JavaScript** and provides an engaging user experience across mobile, tablet, and desktop devices.
+This project is a fully responsive landing page developed as **Task 1** of the **Level 1** of the **Codveda Frontend Development Internship**. The landing page is built using **HTML, CSS, and JavaScript** and provides an engaging user experience across mobile, tablet, and desktop devices.
 
 ## ✨ Features
 - Responsive design for mobile, tablet, and desktop
