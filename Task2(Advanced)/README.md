@@ -2,7 +2,7 @@
 
 ## 📌 Project Overview
 
-This project focuses on optimizing the performance of my **personal portfolio website** as **Task 2** of the **Level 3** of the **CodVeda Frontend Development Internship**. Performance improvements were implemented using **Google Lighthouse** recommendations to enhance loading speed, accessibility, SEO, and overall user experience.
+This project focuses on optimizing the performance of my **Optimization of personal portfolio website** as **Task 2** of the **Level 3** of the **CodVeda Frontend Development Internship**. Performance improvements were implemented using **Google Lighthouse** recommendations to enhance loading speed, accessibility, SEO, and overall user experience.
 
 ## ✨ Performance Optimizations
 
@@ -60,7 +60,7 @@ Portfolio-Performance-Optimization/
 
 ## 🌐 Live Demo
 
-🔗 
+🔗 https://muskan263-wq.github.io/MeRepo-Optimized-/
 
 ## 🎯 Learning Outcomes
 
