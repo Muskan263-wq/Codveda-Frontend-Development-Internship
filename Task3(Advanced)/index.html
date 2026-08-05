@@ -1,0 +1,169 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<title>Codveda — thoughtful digital work</title>
+<meta name="description" content="A calm, human-feeling website with gentle motion, warm details, and a simple story told with care." />
+
+<!-- Fonts -->
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Manrope:wght@500;600;700;800&family=IBM+Plex+Mono:wght@400;500&display=swap" rel="stylesheet">
+
+<!-- GSAP + ScrollTrigger -->
+<script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.12.5/gsap.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.12.5/ScrollTrigger.min.js"></script>
+
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<div class="cursor-dot" id="cursorDot" aria-hidden="true"></div>
+
+<header>
+  <nav class="wrap">
+    <div class="logo">Codveda<span>.</span></div>
+    <div class="nav-links">
+      <a href="#work">Work</a>
+      <a href="#features">About</a>
+      <a href="#process">Process</a>
+    </div>
+  </nav>
+</header>
+
+<main>
+
+  <!-- <section class="hero wrap">
+    <p class="eyebrow">quiet digital work — made with care</p>
+    <h1 id="heroHeading">
+      <span class="line">We make</span>
+      <span class="line">websites that feel <em>human</em></span>
+    </h1>
+    <p>Small, thoughtful experiences for people who want something calm, clear, and worth coming back to. No loud tricks. Just good pacing, warm details, and a feeling that someone truly cared.</p>
+    <div class="hero-cta">
+      <button class="btn" id="ctaBtn">See what we make</button>
+    </div>
+    <div class="scroll-cue"><span class="bar"></span> Scroll</div>
+  </section> -->
+  <section class="hero wrap">
+
+    <div class="hero-content">
+
+        <!-- Left Side -->
+        <div class="hero-text">
+
+            <p class="eyebrow">quiet digital work — made with care</p>
+
+            <h1 id="heroHeading">
+                <span class="line">We make</span>
+                <span class="line">websites that feel <em>human</em></span>
+            </h1>
+
+            <p>
+                Small, thoughtful experiences for people who want something calm,
+                clear, and worth coming back to. No loud tricks. Just good pacing,
+                warm details, and a feeling that someone truly cared.
+            </p>
+
+            <div class="hero-cta">
+                <button class="btn" id="ctaBtn">
+                    See what we make
+                </button>
+            </div>
+
+        </div>
+
+        <!-- Right Side -->
+        <div class="hero-image">
+            <img src="coding-29.svg" alt="Frontend Development Illustration">
+        </div>
+
+    </div>
+
+    <div class="scroll-cue">
+        <span class="bar"></span> Scroll
+    </div>
+
+</section>
+
+  <section class="stats wrap">
+    <div class="stats-grid">
+      <div class="stat-card"><div class="stat-num" data-count="8">0</div><div class="stat-label">years of learning</div></div>
+      <div class="stat-card"><div class="stat-num" data-count="24">0</div><div class="stat-label">projects shaped by hand</div></div>
+      <div class="stat-card"><div class="stat-num" data-count="3">0</div><div class="stat-label">things we never rush</div></div>
+      <div class="stat-card"><div class="stat-num" data-count="100">0</div><div class="stat-label">percent calm by default</div></div>
+    </div>
+  </section>
+
+  <section class="pin-section" id="work">
+    <div class="pin-track">
+      <div class="pin-track-inner" id="pinTrack">
+        <article class="panel" style="--panel-glow:#b07c57">
+          <span class="panel-index">01 / a softer rhythm</span>
+          <div><h3>Made to breathe</h3><p>We leave space for the eye and the mind. The page feels settled instead of overstimulated.</p></div>
+        </article>
+        <article class="panel" style="--panel-glow:#5a7362">
+          <span class="panel-index">02 / small moments</span>
+          <div><h3>Thoughtful details</h3><p>Every interaction is there for a reason, not just to impress. That makes the whole experience feel more honest.</p></div>
+        </article>
+        <article class="panel" style="--panel-glow:#b07c57">
+          <span class="panel-index">03 / gentle motion</span>
+          <div><h3>Quiet movement</h3><p>Motion helps guide the story without grabbing the spotlight. It feels considered rather than loud.</p></div>
+        </article>
+        <article class="panel" style="--panel-glow:#5a7362">
+          <span class="panel-index">04 / welcome feeling</span>
+          <div><h3>Easy to live with</h3><p>We aim for pages that feel useful, warm, and easy to return to long after the first impression.</p></div>
+        </article>
+      </div>
+    </div>
+  </section>
+
+  <section class="features wrap" id="features">
+    <div class="section-head">
+      <h2>Built to feel natural</h2>
+      <p>The details are simple, but they matter. That is usually where the character lives.</p>
+    </div>
+    <div class="feature-grid">
+      <div class="feature-card" tabindex="0"><div class="icon">01</div><h3>Careful pacing</h3><p>We build things with room to breathe so visitors can actually take in what matters.</p></div>
+      <div class="feature-card" tabindex="0"><div class="icon">02</div><h3>Less noise</h3><p>We avoid the extra flourish that only looks busy. The result feels calmer and more trustworthy.</p></div>
+      <div class="feature-card" tabindex="0"><div class="icon">03</div><h3>Made for people</h3><p>Accessibility is part of the design from the start, not something added near the end.</p></div>
+    </div>
+  </section>
+
+  <section class="process wrap" id="process">
+    <div class="section-head"><h2>How a project usually comes together</h2></div>
+    <div class="process-list">
+      <div class="process-item">
+        <span class="process-num">01</span>
+        <div><h3>Start with the feeling</h3><p>We begin with the mood, the message, and the people who will use it — not just the layout.</p><div class="process-bar"><div class="process-bar-fill" data-fill="90"></div></div></div>
+      </div>
+      <div class="process-item">
+        <span class="process-num">02</span>
+        <div><h3>Shape the structure</h3><p>Then we work out what should feel easy to find, easy to read, and easy to trust.</p><div class="process-bar"><div class="process-bar-fill" data-fill="78"></div></div></div>
+      </div>
+      <div class="process-item">
+        <span class="process-num">03</span>
+        <div><h3>Add motion with restraint</h3><p>Small moments of movement help guide attention without making the page feel overdesigned.</p><div class="process-bar"><div class="process-bar-fill" data-fill="64"></div></div></div>
+      </div>
+      <div class="process-item">
+        <span class="process-num">04</span>
+        <div><h3>Leave it feeling finished</h3><p>We test the details, adjust the rough edges, and make sure it still feels good on a quiet screen.</p><div class="process-bar"><div class="process-bar-fill" data-fill="100"></div></div></div>
+      </div>
+    </div>
+  </section>
+
+</main>
+
+<footer class="wrap">
+  <div class="marquee" aria-hidden="true">
+    <span id="marqueeTrack">crafted with purpose · designed with care · animated with GSAP · built for people · </span>
+  </div>
+  <div class="foot-meta">
+    <span>Codveda © 2026</span>
+    <span>designed with care, built with patience</span>
+  </div>
+</footer>
+
+<script src="script.js"></script>
+</body>
+</html>
