@@ -1,7 +1,7 @@
 # Interactive Form Validation
 
 ## 📌 Project Overview
-This project is an **Interactive Form Validation System** developed as **Task 2** of the **Codveda Frontend Development Internship**. The application validates user input in real time using **HTML, CSS, and JavaScript**, providing instant feedback and enhancing the overall user experience.
+This project is an **Interactive Form Validation System** developed as **Task 2** of the **Level 1** of the **Codveda Frontend Development Internship**. The application validates user input in real time using **HTML, CSS, and JavaScript**, providing instant feedback and enhancing the overall user experience.
 
 ## ✨ Features
 - Real-time form validation
