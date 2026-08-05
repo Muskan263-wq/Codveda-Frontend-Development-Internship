@@ -33,6 +33,9 @@ Interactive-Form-Validation/
 
 ## 📸 Output
 <img width="906" height="648" alt="Task2(Basic)1" src="https://github.com/user-attachments/assets/559fbf88-891a-41d9-b985-fc9873064d31" />
+
+## Mobile View
+
 <img width="874" height="1799" alt="Task2(Basic)2" src="https://github.com/user-attachments/assets/50a6c661-fc11-496b-877b-7424334fd0b1" />
 
 ## 🌐 Live Demo
