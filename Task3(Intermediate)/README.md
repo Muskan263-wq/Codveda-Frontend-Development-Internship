@@ -33,7 +33,10 @@ Responsive-UI-TailwindCSS/
 
 ## 📸 Output
 <img width="1339" height="640" alt="Task3(Intermediate)1" src="https://github.com/user-attachments/assets/1acecee5-2ab7-4e9e-a412-327c54e3e0c4" />
+
 <img width="1354" height="648" alt="Task3(Intermediate)2" src="https://github.com/user-attachments/assets/85235db9-7634-4c6b-b945-0face7d808d8" />
+
+## Mobile View
 <img width="852" height="1846" alt="Task3(Intermediate)3" src="https://github.com/user-attachments/assets/ff6e259c-10c5-4fd7-bcb2-c6868282a6f9" />
 
 ## 🌐 Live Demo
