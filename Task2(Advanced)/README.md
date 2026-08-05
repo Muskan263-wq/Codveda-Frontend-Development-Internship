@@ -46,6 +46,7 @@ Portfolio-Performance-Optimization/
 
 <img width="1361" height="643" alt="Task2(Advanced)4" src="https://github.com/user-attachments/assets/15b88ec7-df16-42b3-a8f7-04cdc18201c8" />
 
+## Mobile View
 <img width="864" height="1821" alt="Task2(Advanced)6" src="https://github.com/user-attachments/assets/3987bf89-db9f-4c62-ae72-b7759fe2c093" />
 
 
