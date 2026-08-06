@@ -52,6 +52,9 @@ Portfolio-Performance-Optimization/
 
 ## 📊 Performance Improvements
 
+<img width="548" height="602" alt="BeforeOptiTaskAdvanced" src="https://github.com/user-attachments/assets/0d763137-0b11-4137-a607-0c1e24cc58ec" />
+
+
 - ✅ Performance Score: **90+**
 - ✅ Faster Page Load Time
 - ✅ Optimized Images using WebP
