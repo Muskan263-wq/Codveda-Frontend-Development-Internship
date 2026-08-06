@@ -37,7 +37,7 @@ Responsive-UI-TailwindCSS/
 <img width="1354" height="648" alt="Task3(Intermediate)2" src="https://github.com/user-attachments/assets/85235db9-7634-4c6b-b945-0face7d808d8" />
 
 ## Mobile View
-<img width="852" height="1846" alt="Task3(Intermediate)3" src="https://github.com/user-attachments/assets/ff6e259c-10c5-4fd7-bcb2-c6868282a6f9" />
+<img width="852" height="1300" alt="Task3(Intermediate)3" src="https://github.com/user-attachments/assets/ff6e259c-10c5-4fd7-bcb2-c6868282a6f9" />
 
 ## 🌐 Live Demo
 
