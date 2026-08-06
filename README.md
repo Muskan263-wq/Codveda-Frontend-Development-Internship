@@ -49,6 +49,19 @@ https://muskan263-wq.github.io/Interactive-Form-CodeVeda-/
 
 ## 🟡 Intermediate Level
 
+### 📌 Task 1 –Modern Single Page Application
+Developed a responsive SPA using React or Vue.js with a modern UI design.
+
+**Features**
+- Responsive Layout
+- Utility-First CSS
+- Deploy On Netlify
+- Custom Theme
+- Modern Components
+- Fast Navigation
+
+🔗 **Live Demo:**  
+https://modernsinglepageapplicationnorthstar.netlify.app/
 
 ### 📌 Task 2 – Responsive UI using Tailwind CSS
 Developed a responsive website using Tailwind CSS with a modern UI design.
