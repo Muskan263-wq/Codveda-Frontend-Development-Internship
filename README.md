@@ -91,8 +91,9 @@ Optimized my personal portfolio website using Google Lighthouse best practices.
 - Better Accessibility
 - SEO Improvements
 
-🔗 **Live Demo:**  
+🔗 **Live Demo:** 
 https://muskan263-wq.github.io/MeRepo-Optimized-/
+
 ---
 
 ### 📌 Task 3 – Advanced Animations using GSAP
