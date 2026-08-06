@@ -29,20 +29,29 @@ This project is a **Single Page Application (SPA)** developed as **Task 1** of t
 
 ## 📂 Project Structure
 
-Single-Page-Application/
-│── public/
+Task1(Intermediate)/
+│── dist/
+│   ├── assets/
+│   │   ├── index-DJO_qv30.css
+│   │   └── index-Rjnovvj3.js
+│   └── index.html
+│
 │── src/
-│   ├── components/
 │   ├── pages/
 │   │   ├── Home.jsx
 │   │   ├── About.jsx
 │   │   └── Contact.jsx
+│   │
 │   ├── App.jsx
 │   ├── main.jsx
+│   └── styles.css
+│
+│── README.md
+│── index.html
 │── package.json
+│── package-lock.json
+│── public.url
 │── vite.config.js
-└── README.md
-```
 
 ## 📸 Output
 <img width="1363" height="623" alt="Task1(Intermediate)1" src="https://github.com/user-attachments/assets/4cdeb2a8-9acc-4736-920b-1c45c737433f" />
