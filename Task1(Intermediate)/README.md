@@ -56,7 +56,7 @@ Single-Page-Application/
 
 ## 🌐 Live Demo
 
-🔗 https://modernsinglepageapplicationnorthstar.netlify.app/
+🔗 <https://modernsinglepageapplicationnorthstar.netlify.app/>
 
 ## 🚀 Installation & Setup
 
