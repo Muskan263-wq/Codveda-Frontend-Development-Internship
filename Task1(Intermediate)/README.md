@@ -60,7 +60,7 @@ Task1(Intermediate)/
 
 <img width="1351" height="641" alt="Task1(Intermediate)3" src="https://github.com/user-attachments/assets/653df22b-5eb8-4aa9-a988-1ffa86e9b123" />
 
-<img width="853" height="1844" alt="Task1(Intermediate)4" src="https://github.com/user-attachments/assets/ee74d017-bb23-4cf4-9eae-d450812ecf1c" />
+<img width="853" height="1500" alt="Task1(Intermediate)4" src="https://github.com/user-attachments/assets/ee74d017-bb23-4cf4-9eae-d450812ecf1c" />
 
 
 ## 🌐 Live Demo
