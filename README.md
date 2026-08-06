@@ -63,7 +63,7 @@ Developed a responsive SPA using React or Vue.js with a modern UI design.
 🔗 **Live Demo:**  
 https://modernsinglepageapplicationnorthstar.netlify.app/
 
-### 📌 Task 2 – Responsive UI using Tailwind CSS
+### 📌 Task 3 – Responsive UI using Tailwind CSS
 Developed a responsive website using Tailwind CSS with a modern UI design.
 
 **Features**
@@ -92,7 +92,7 @@ Optimized my personal portfolio website using Google Lighthouse best practices.
 - SEO Improvements
 
 🔗 **Live Demo:**  
-
+https://muskan263-wq.github.io/MeRepo-Optimized-/
 ---
 
 ### 📌 Task 3 – Advanced Animations using GSAP
